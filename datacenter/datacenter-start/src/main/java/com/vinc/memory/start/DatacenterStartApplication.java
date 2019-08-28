@@ -1,9 +1,9 @@
-package com.csl.memory.datacenterstart;
+package com.vinc.memory.start;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-@SpringBootApplication
+//@SpringBootApplication
+@SpringBootApplication(scanBasePackages = "com.vinc.memory")
 public class DatacenterStartApplication {
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.csl.memory.datacenterstart;
+package com.vinc.memory.datacenterstart;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

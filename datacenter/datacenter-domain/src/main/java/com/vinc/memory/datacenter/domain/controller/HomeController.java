@@ -1,4 +1,4 @@
-package com.csl.memory.datacenterdomain.controller;
+package com.vinc.memory.datacenter.domain.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

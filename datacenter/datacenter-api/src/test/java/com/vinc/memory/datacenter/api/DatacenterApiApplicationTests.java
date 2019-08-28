@@ -1,4 +1,4 @@
-package com.csl.memory.datacenterapi;
+package com.vinc.memory.datacenter.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -16,7 +16,7 @@
  */
 
 
-package com.csl.memory.datacenterstart.swagger;
+package com.vinc.memory.start.swagger;
 
 import io.swagger.annotations.ApiOperation;
 import org.springframework.context.annotation.Bean;
@@ -42,7 +42,6 @@ public class SwaggerConfig {
         return new ApiInfoBuilder()
                 .title("数据中心API文档")
                 .description("数据中心API")
-                .termsOfServiceUrl("http://wharfoo.io")
                 .version("1.0")
                 .build();
     }
